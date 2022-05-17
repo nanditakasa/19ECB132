@@ -8,6 +8,7 @@ VU21CSEN0200013 GITHUB REPOSITORY
 [lettercount.c](lettercount.c)
 [Insertion_in_array.c](Insertion_in_array.c)
 [deletion_in_array.c](deletion_in_array.c)
+[shiftingarray.c](shiftingarray.c)
 [binarytree.c](binarytree.c)
 [preordertraversal.c](preordertraversal.c)
 [heightoftree.c](heightoftree.c)
