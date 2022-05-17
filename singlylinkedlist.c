@@ -5,10 +5,9 @@ struct singly_node{
   struct singly_node *next;
 };
 int main() {
-  printf("\n*** Singly Linked List with 3 nodes***");
+  printf("\n Singly Linked List with 3 nodes");
   struct singly_node *head = NULL, *new_node, *temp;
   for (int counter = 0; counter < 3; counter++) {
-    //Allocating memory for the node using dynamic memory allocation
     new_node = (struct singly_node *)malloc(sizeof(struct singly_node));
     new_node->data = counter;
     new_node->next = NULL;
@@ -19,7 +18,7 @@ int main() {
       temp = new_node;
     }
   }
-  printf("\n*** Traversing the elements in the Singly Linked List***");
+  printf("\n Traversing the elements in the Singly Linked List");
   temp = head;
   while (temp != NULL) {
     printf("\n%d", temp->data);
