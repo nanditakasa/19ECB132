@@ -2,7 +2,7 @@
 VU21CSEN0200013 GITHUB REPOSITORY
 
 ## INDEX
-[hello.c](hello.c)
+[hello.c](hello.c)   
 [lineardatastructures.c](lineardatastructures.c)   
 [insertionsort.c](insertionsort.c)   
 [lettercount.c](lettercount.c)   
