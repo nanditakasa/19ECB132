@@ -14,3 +14,5 @@ VU21CSEN0200013 GITHUB REPOSITORY
 [binarytree.c](binarytree.c)   
 [preordertraversal.c](preordertraversal.c)   
 [heightoftree.c](heightoftree.c)   
+[Binarytree_height.c](Binarytree_height.c)   
+[traversal.c](traversal.c)
