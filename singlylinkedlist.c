@@ -25,8 +25,8 @@ int main() {
     temp = temp->next;
   }
 } 
-//OUTPUT:Singly Linked List with 3 nodes
+/*OUTPUT:Singly Linked List with 3 nodes
  Traversing the elements in the Singly Linked List
 0
 1
-2//
+2*/
