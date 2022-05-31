@@ -3,4 +3,4 @@ main()
 {
   printf("hello");
 }
-//OUTPUT:hello//
+/*OUTPUT:hello*/
