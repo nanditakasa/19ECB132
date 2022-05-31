@@ -11,3 +11,5 @@ int main(void) {
   printf("\nThe number of letters in the given sentence are : %d\n", number_of_letters);
   return 0;
 }
+//OUTPUT:Enter a sentence: Nandita is a good girl
+The number of letters in the given sentence are : 7//
