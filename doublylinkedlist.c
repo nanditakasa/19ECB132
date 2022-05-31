@@ -28,8 +28,8 @@ int main() {
     temp = temp->next;
   }
 }
-//OUTPUT:Doubly Linked List with 3 nodes
+/*OUTPUT:Doubly Linked List with 3 nodes
  Traversing the elements in the Doubly Linked List
 0
 1
-2//
+2*/
