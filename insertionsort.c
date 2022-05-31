@@ -31,5 +31,5 @@ int main()
   
     return 0;  
 }    
-//OUTPUT:After sorting array elements are -
-12 31 25 8 32 17//
+/*OUTPUT:After sorting array elements are -
+12 31 25 8 32 17*/
