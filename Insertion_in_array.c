@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 void main(){
 	int a[100],i,posi,size,item;
 	printf("enter size of array: ");
@@ -12,13 +11,19 @@ void main(){
 	scanf("%d",&posi);
 	printf("enter item");
 	scanf("%d",&item);
-	for(i=size;i>=pos;i--){
+	for(i=size;i>=posi;i--){
 		a[i]=a[i-1];
 	}
-	a[pos]=item;
+	a[posi]=item;
 	size++;
 	printf("resultant array elements");
 	for(i=0;i<size;i++){
 		printf("%d",a[i]);
 	}
 }
+//OUTPUT:enter size of array: 5
+enter array elements: 
+1 2 3 4 5
+enter position2
+enter item2
+resultant array elements122345//
