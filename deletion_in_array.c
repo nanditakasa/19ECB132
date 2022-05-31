@@ -31,7 +31,7 @@ int main ()
     }  
     return 0;  
 }  
-//OUTPUT:Enter the number of elements in an array: 
+/*OUTPUT:Enter the number of elements in an array: 
  3
  
  Enter 3 elements in array: 
@@ -41,4 +41,4 @@ int main ()
  
  The resultant array is: 
  arr[0] =  3 
- arr[1] =  4//
+ arr[1] =  4*/
