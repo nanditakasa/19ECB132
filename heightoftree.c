@@ -43,4 +43,4 @@ int main()
     getchar();
     return 0;
 }
-//OUTPUT:Height of tree is 2//
+/*OUTPUT:Height of tree is 2*/
